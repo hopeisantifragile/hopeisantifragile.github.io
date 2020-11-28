@@ -6,29 +6,9 @@
     <description>Recent content on Hope is Antifragile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 15:30:04 -0600</lastBuildDate>
     
 	<atom:link href="hopeisantifragile.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>hopeisantifragile.github.io/about/</link>
-      <pubDate>Sat, 28 Nov 2020 15:30:04 -0600</pubDate>
-      
-      <guid>hopeisantifragile.github.io/about/</guid>
-      <description>Hope is Antifragile For some, hope is simply a resilient property. They hope and so they are able to persist. But I contend that hope can be an antifragile property, and action, that gets stronger over time. The things you hope for get closer to becoming as time passes and so your hope strengthens over time. Of course, paradoxically, your hope may get weaker over time precisely because the things you hope for have yet to be realized.</description>
-    </item>
-    
-    <item>
-      <title>I Believe in Bitcoin</title>
-      <link>hopeisantifragile.github.io/posts/i-believe-in-bitcoin/</link>
-      <pubDate>Sat, 28 Nov 2020 15:27:56 -0600</pubDate>
-      
-      <guid>hopeisantifragile.github.io/posts/i-believe-in-bitcoin/</guid>
-      <description>A remark about the future of bitcoin
-The Context I believe in Bitcoin because not much else in our age is worth believing in. We have reaffirmed the wisdom of the ancients as creatures unable to be trusted with ourselves. It was our generation’s mass realization and exposure of this truth that spurred Bitcoin’s conception in 2008 and birth in 2009. Bitcoin is that rare and prudent human invention that endeavors to safeguard against us.</description>
-    </item>
     
   </channel>
 </rss>
